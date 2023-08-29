@@ -1,1 +1,1 @@
-# This is my Remore repo.
+# This is my Remote repo.
